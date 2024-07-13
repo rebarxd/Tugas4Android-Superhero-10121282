@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas 4 Android</string>
+    <string name="superhero_dash">superhero_dash</string>
+    <string name="nama_superhero">Nama Superhero</string>
+    <string name="biography_superhero">Bio</string>
+    <string name="isi_data_biography_superhero">isi data biograpy superhero</string>
+    <string name="isi_data_powerstats_superhero">isi data powerstats superhero</string>
+    <string name="reza_a_mardiansyah_10121282">Reza A Mardiansyah 10121282</string>
+    <string name="pemrograman_android_3">Pemrograman Android 3</string>
+    <string name="powerstats">Powerstats</string>
+    <string name="family">Family</string>
+    <string name="isi_data_family_superhero">isi_data_family_superhero</string>
+</resources>
